@@ -1,6 +1,3 @@
-
-Based on the summaries of the provided files, here is a draft README for the project:
-
 Database Management System (DBMS) Project
 This project implements a basic yet comprehensive Database Management System (DBMS) in C++, designed to provide foundational functionalities such as buffer management, error handling, and page management. It's structured to offer a modular approach to database management, allowing for scalability and further development.
 
